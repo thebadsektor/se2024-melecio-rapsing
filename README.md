@@ -1,6 +1,6 @@
 # SD-3101 [Dormitory Management System]
 
-![Project Banner](https://via.placeholder.com/1200x400.png?text=Project+Banner+Placeholder)
+![alt text](image-1.png)
 
 ## Table of Contents
 - [Introduction](#introduction)
