@@ -84,16 +84,16 @@ Detailed instructions on how to use the project after setup:
   - Password: admin
 
 ## Design
-Home Page
+- Home Page
 ![alt text](image-1.png)
 
-About Page
+- About Page
 ![alt text](image-2.png)
 
-Hall Page
+- Hall Page
 ![alt text](image-3.png)
 
-Admin Home Page
+- Admin Home Page
 ![alt text](image-4.png)
 
 ## Project Structure
