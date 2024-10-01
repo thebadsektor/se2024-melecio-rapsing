@@ -1,4 +1,4 @@
-# SD-3101 [Dormitory Management System]
+# SD-3101 Dormitory Management System
 
 ![alt text](image-1.png)
 
@@ -107,11 +107,6 @@ Structure of the project directory.
 │   ├── Presentation
 │   ├── Project Proposal
 │   └── Report
-├── image-1.png
-├── image-2.png
-├── image-3.png
-├── image-4.png
-├── image.png
 ├── LICENSE.txt
 └── README.md
 ```
