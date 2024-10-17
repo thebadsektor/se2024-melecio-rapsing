@@ -100,15 +100,31 @@ Detailed instructions on how to use the project after setup:
 Structure of the project directory. 
 ```bash
 .
-├── Dormitory-Management-System-master
-│   ├── Design
-│   ├── DMS
-│   ├── ER Diagram
-│   ├── Presentation
-│   ├── Project Proposal
-│   └── Report
-├── LICENSE.txt
-└── README.md
+└── Dormitory-Management-System-master/
+    ├── Design/
+    │   ├── about.png
+    │   ├── admin home.png
+    │   ├── hall.png
+    │   └── home page.png
+    ├── DMS/
+    │   ├── dashboard
+    │   ├── Database
+    │   ├── Dining
+    │   ├── FacilitiesProblem
+    │   └── Floor
+    ├── ER Diagram/
+    │   ├── ER Diagram.drawio
+    │   └── ER Diagram.drawio.png
+    ├── Presentation/
+    │   └── Group-8.pptx
+    ├── Project Proposal/
+    │   ├── Project Proposal.doc
+    │   └── Project Proposal.pdf
+    ├── Report/
+    │   ├── Group-8.docs
+    │   └── Group-8.pdf
+    ├── LICENSE.txt
+    └── README.md
 ```
 
 ## Contributors
