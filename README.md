@@ -140,6 +140,8 @@ The team members involved in the project.
 Project timeline, milestones or deliverables. 
 
 - **Week 1-2**: Research and project planning.
+	- Feature to Implement: Dockerize Project
+ 	- Completion Date: 27/10/2024		 
 - **Week 3-5**: Design and setup.
 - **Week 6-10**: Implementation.
 - **Week 11-12**: Testing and debugging.
