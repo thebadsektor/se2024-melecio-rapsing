@@ -143,18 +143,18 @@ Project timeline, milestones or deliverables.
   - September 15, 2024
   - Meeting Recording: https://www.youtube.com/watch?v=n0d_jJgTQu8&ab_channel=MANUAL%2CMelvinD.
   - Proposes Feautures
-    	- Online Room Reservation System
-  	- Roommate Matching Algorithm
-     	- Feedback and Rating System
-        - Push Notifications
-        - Visitor Management System
-        - Service Request Portal
-        - Emergency Alert System
-        - Event Calendar
-        - Room Inventory Management System
-        - Automated Maintenance Scheduling
-	- Feature to Implement: Dockerize Project
- 	- Completion Date: 27/10/2024		 
+    - Online Room Reservation System
+    - Roommate Matching Algorithm
+    - Feedback and Rating System
+    - Push Notifications
+    - Visitor Management System
+    - Service Request Portal
+    - Emergency Alert System
+    - Event Calendar
+    - Room Inventory Management System
+    - Automated Maintenance Scheduling
+    - Feature to Implement: Dockerize Project
+    - Completion Date: 27/10/2024		 
 - **Week 3-5**: Design and setup.
 - **Week 6-10**: Implementation.
 - **Week 11-12**: Testing and debugging.
