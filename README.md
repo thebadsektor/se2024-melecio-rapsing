@@ -125,6 +125,11 @@ Structure of the project directory.
     │   └── Group-8.pdf
     ├── LICENSE.txt
     └── README.md
+    ├── src/
+    │   ├── index.php
+    │   └── migration.sql
+    ├── docker-compose.yml
+    └── Dockerfile
 ```
 
 ## Contributors
